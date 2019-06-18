@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729061107633",
+    "firebase_url": "https://minor-imgnoti.firebaseio.com",
+    "project_id": "minor-imgnoti",
+    "storage_bucket": "minor-imgnoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729061107633:android:c72b5fe9c67f4e38",
+        "android_client_info": {
+          "package_name": "com.example.upesnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729061107633-bdgf3j7ece954t5oeduvd2utlt9c39b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsbVoGTHLQ-1jGdU0-CX4n_kqbhu99cBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729061107633-bdgf3j7ece954t5oeduvd2utlt9c39b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
